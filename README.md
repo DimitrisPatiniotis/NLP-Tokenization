@@ -2,12 +2,12 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Assignment-1](#assignment-1)
+* [Run Assignments](#run-assignments)
 
 ## Overview
 This repository contains the assignments from the NLP class, part of the MSc' Spring 2022 Semester.
 
-## Assignment-1
+## Run Assignments
 
 ### Getting Started
 
@@ -29,4 +29,5 @@ $ pip install -r requirements.txt
 
 ```
 $ python -m notebook Assignment-1/Patiniotis\ NLP\ Ex.1.ipynb
+$ python -m notebook Assignment-2/Patiniotis\ NLP\ Ex.2.ipynb
 ```
